@@ -1,0 +1,18 @@
+[
+  {
+    "transaction_id": "QB76XYZ123",
+    "chama_id": "e3b0c442-98fc-11eb-a8b3-0242ac130003",
+    "transaction_date": "2026-04-12T14:32:00Z",
+    "completed_against_name": "John Doe",
+    "amount": 5000.00,
+    "balance": 15000.00
+  },
+  {
+    "transaction_id": "QB89ABC456",
+    "chama_id": "e3b0c442-98fc-11eb-a8b3-0242ac130003",
+    "transaction_date": "2026-04-15T09:15:00Z",
+    "completed_against_name": "Jane Smith",
+    "amount": 3000.00,
+    "balance": 18000.00
+  }
+]
